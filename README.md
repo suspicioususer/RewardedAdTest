@@ -4,7 +4,9 @@ ASUS X00AD Test with AdMob/Google Ad Unit IDs
 App is crashing when rewarded ad opened on Asus ZB500KL device. It is running on emulator and Asus ZS620KL device successfully. 
 
 Device: ASUS X00AD - Zenfone Go (ZB500KL) / Android 6.0.1 / API 23
+
 Device: ASUS Z01RD - Zenfone 5z (ZS620KL) / Android 10
+
 Device: NEXUS 5X / Android 6.0 / API 23 (Emulator)
 
 Log:
